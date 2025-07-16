@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dependencyInversionPrinciple.Switchabal&apos; to &apos;Switchable&apos;&#x0A;- Original project: &apos;SOLID&apos;&#x0A;- Original element: &apos;dependencyInversionPrinciple.Switchabal&apos;&#x0A;- Renamed element: &apos;dependencyInversionPrinciple.Switchable&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Switchabal&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;dependencyInversionPrinciple{Switchabal.java[Switchabal" matchStrategy="1" name="Switchable" qualified="false" references="true" similarDeclarations="false" stamp="1752649234199" textual="false" version="1.0"/>
+</session>

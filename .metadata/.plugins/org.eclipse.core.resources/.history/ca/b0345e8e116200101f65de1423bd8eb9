@@ -1,0 +1,10 @@
+package interfaceSegregationPrinciple;
+
+public class ISPDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
