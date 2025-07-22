@@ -1,5 +1,5 @@
 package singleResponsibilityPrinciple;
-
+//A class should have only one reason to change.
 public class SRPDemo {
 
 	public static void main(String[] args) {
